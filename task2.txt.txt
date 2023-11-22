@@ -1,0 +1,44 @@
+namespace task2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // 1. name ve surname dəyişənləri (variable) yaradın
+            //mətn olaraq Adınız və Soyadınızı uyğun olaraq bu dəyişənlərdə saxlayın
+
+            //string name = "Dilshad";
+            //string surname = "Ibrahimli";
+            //string fullname = name + " " + surname;
+            //Console.WriteLine(fullname);
+
+            //2.  iki ədəd təyin edin və bu ədədləri toplayın
+            //int num1 = 3;
+            //int num2 = 5;
+            //int sum = num1 + num2;
+            //Console.WriteLine(sum);
+
+            //3.iki eded teyin edib bir birinden cixin
+            //int num1 = 3;
+            //int num2 = 5;
+            //int sum = num1 - num2;
+            //Console.WriteLine(sum);
+
+            //4. iki eded teyin edib bu iki ededin hasiliini tapin sonra alinmiş nəticənin kvadratını tapın
+            //int num1 = 2;
+            //int num2 = 3;
+            //float sum = num1 * num2;
+            //Console.WriteLine(sum * sum );
+
+            //5.iki eded teyin edib birinci ədədi ikinci ədədə bölüb cavabı tapin sonra alinmiş nəticenin kvadratını tapın
+
+            //int num1 = 18;
+            //int num2 = 5;
+            //double  sum = (num1 / num2);
+            //Console.WriteLine(sum * sum);
+
+
+
+        }
+    }
+}"# task2" 
